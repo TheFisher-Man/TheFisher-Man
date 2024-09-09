@@ -1,3 +1,5 @@
-Linux fanboy since 2024-09-09. (fedora btw)
-Trying out NVIM baby
-Hopefull C programmer. (I'm terrible)
+### Fish is on the hub!!!
+
+- Linux fanboy since yesterday (i use ubuntu mint btw)
+- Trying out NVIM baby
+- Hopefull C programmer (I'm a quiche eater)
